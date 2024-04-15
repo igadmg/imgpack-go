@@ -1,4 +1,4 @@
-module github.com/igadmg/raylib-imgpack
+module github.com/igadmg/imgpack-go
 
 go 1.22.2
 
